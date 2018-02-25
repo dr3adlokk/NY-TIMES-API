@@ -1,1 +1,1 @@
-# NY-TIMES-API
+# nytAPI
